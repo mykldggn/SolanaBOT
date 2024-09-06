@@ -1,6 +1,6 @@
 This is a Solana local trading bot that is structured to do the following:
-  1. Notifies the user when the chosen wallet has submitted a trade on the Raydium/Pumpfun platform.
-  2. Gives the user an option to link to their Photon wallet to copy the trade
+  1. Notifies the user when the chosen wallet has submitted a trade on the chosen platform (Pump.fun, Raydium, Moonshot(lol), etc).
+  2. Gives the user an option to link to their Photon wallet to copy the trade.
   3. Provides summary statistics when a wallet is first chosen, such as:
      a. (PNL [30day, All time, etc]
      b. Avg length of time (days, hours) of possession for sold coins
