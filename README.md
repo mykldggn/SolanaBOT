@@ -92,7 +92,7 @@ If a token meets all checks, the following information is sent to Telegram:
 - Requires updates if API endpoints or GMGN structure changes.
 - Dependent on the availability of external services (RugCheck, TweetScout).
 - Room for future improvements:
-  ✦ Number of whales holding the token
-  ✦ Has the dev sold their tokens?
-  ✦ Is the Dex paid or not?
+✦ Number of whales holding the token
+✦ Has the dev sold their tokens?
+✦ Is the Dex paid or not?
 ---
